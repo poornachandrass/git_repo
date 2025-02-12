@@ -1,0 +1,273 @@
+Mon Aug 26 20:27:02 2024
+Create Relation ADR_CONTROL
+Create Relation INC_METER_IMPT_DEF
+Create Relation INC_METER_PK_IMPTS
+Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_6\log] [C:\app\poorn\product\11.1.0\db_6\log\diag]
+Mon Aug 26 20:28:04 2024
+Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_6\log] [C:\app\poorn\product\11.1.0\db_6\log\diag]
+Mon Aug 26 20:28:25 2024
+
+
+***********************************************************************
+
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleorclDee)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))'))(CONNECT_DATA=(SID=orclDee)(CID=(PROGRAM=C:\app\poorn\product\11.1.0\db_6\BIN\sqlplus.exe)(HOST=POORNACHANDRA)(USER=poorn))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 11.1.0.6.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 11.1.0.6.0 - Production
+  Time: 26-AUG-2024 20:28:25
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12560
+    
+TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 530
+    
+TNS-00530: Protocol adapter error
+    nt secondary err code: 2
+    nt OS err code: 0
+Mon Aug 26 20:28:48 2024
+
+
+***********************************************************************
+
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleorclDee)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))'))(CONNECT_DATA=(SID=orclDee)(CID=(PROGRAM=C:\app\poorn\product\11.1.0\db_6\BIN\sqlplus.exe)(HOST=POORNACHANDRA)(USER=poorn))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 11.1.0.6.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 11.1.0.6.0 - Production
+  Time: 26-AUG-2024 20:28:48
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12560
+    
+TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 530
+    
+TNS-00530: Protocol adapter error
+    nt secondary err code: 2
+    nt OS err code: 0
+Mon Aug 26 20:30:42 2024
+Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_6\log] [C:\app\poorn\product\11.1.0\db_6\log\diag]
+Mon Aug 26 21:29:49 2024
+Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_7\log] [C:\app\poorn\product\11.1.0\db_7\log\diag]
+Mon Aug 26 22:00:00 2024
+Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+Mon Aug 26 22:14:31 2024
+Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+Mon Aug 26 22:15:24 2024
+Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+Mon Aug 26 22:15:53 2024
+Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+Tue Aug 27 10:26:23 2024
+Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+Tue Aug 27 10:27:44 2024
+Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+Tue Aug 27 10:28:26 2024
+Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+Tue Aug 27 10:29:14 2024
+Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+Tue Aug 27 10:30:00 2024
+Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+Tue Aug 27 12:53:56 2024
+Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+Tue Aug 27 12:55:20 2024
+Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+Tue Aug 27 18:11:10 2024
+Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+Tue Aug 27 18:26:23 2024
+Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+Tue Aug 27 18:27:24 2024
+Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+Tue Aug 27 18:53:44 2024
+Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+Tue Aug 27 18:54:15 2024
+Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+Wed Aug 28 12:53:34 2024
+Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+Wed Aug 28 12:54:24 2024
+Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+Wed Aug 28 12:55:17 2024
+Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+Thu Aug 29 12:58:00 2024
+Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+Thu Aug 29 12:58:28 2024
+Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+Thu Aug 29 13:00:23 2024
+Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+Thu Aug 29 18:34:06 2024
+Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+Thu Aug 29 18:34:33 2024
+Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+Thu Aug 29 18:50:59 2024
+Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+Thu Aug 29 18:51:25 2024
+Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+Thu Aug 29 19:20:46 2024
+Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+Thu Aug 29 19:21:12 2024
+Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+Thu Aug 29 19:30:36 2024
+Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+Thu Aug 29 19:31:04 2024
+Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+Thu Aug 29 20:12:36 2024
+Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+Thu Aug 29 20:12:51 2024
+Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+Thu Aug 29 21:03:03 2024
+Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+Thu Aug 29 21:03:20 2024
+Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+Fri Aug 30 12:51:19 2024
+Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+Fri Aug 30 12:51:34 2024
+Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+Fri Aug 30 19:03:24 2024
+Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+Fri Aug 30 19:04:03 2024
+Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+Fri Aug 30 19:20:55 2024
+Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+Mon Sep 02 19:19:19 2024
+Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+Mon Sep 02 19:22:41 2024
+Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+Mon Sep 02 19:23:41 2024
+Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+Mon Sep 02 19:24:09 2024
+Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+Mon Sep 02 19:24:42 2024
+Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+Mon Sep 02 19:25:14 2024
+Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+Mon Sep 02 19:25:44 2024
+Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+Mon Sep 02 19:26:21 2024
+Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+Mon Sep 02 19:27:03 2024
+Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+Mon Sep 02 19:27:51 2024
+Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+Mon Sep 02 19:27:51 2024
+Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+Mon Sep 02 19:28:59 2024
+Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+Mon Sep 02 19:29:28 2024
+Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+Mon Sep 02 19:30:19 2024
+Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+Mon Sep 02 19:32:53 2024
+Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+Mon Sep 02 19:42:50 2024
+Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+Mon Sep 02 19:53:02 2024
+Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+Mon Sep 02 19:53:35 2024
+Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+Mon Sep 02 19:54:17 2024
+Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+Mon Sep 02 20:04:23 2024
+Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+Mon Sep 02 20:04:38 2024
+Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+Mon Sep 02 20:12:23 2024
+Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+Tue Sep 03 08:50:11 2024
+Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+Tue Sep 03 08:51:00 2024
+Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+Tue Sep 03 08:53:06 2024
+Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+Tue Sep 03 18:10:51 2024
+Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+Tue Sep 03 18:11:17 2024
+Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+Tue Sep 03 18:11:47 2024
+Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+Tue Sep 03 18:12:26 2024
+Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+Tue Sep 03 18:23:37 2024
+Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+Tue Sep 03 18:24:10 2024
+Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+Wed Sep 04 12:38:54 2024
+Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+Wed Sep 04 14:12:20 2024
+Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+Wed Sep 04 14:13:09 2024
+Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+Wed Sep 04 16:15:30 2024
+Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+Wed Sep 04 16:15:59 2024
+Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+Wed Sep 04 22:22:12 2024
+Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+Fri Sep 06 11:16:17 2024
+Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+Fri Sep 06 11:16:33 2024
+Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+Thu Sep 12 13:08:55 2024
+Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+Thu Sep 12 13:09:08 2024
+Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+Thu Sep 12 13:09:47 2024
+Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+Thu Sep 12 13:33:06 2024
+Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+Thu Sep 12 13:33:33 2024
+Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+Fri Sep 13 14:45:42 2024
+Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+Fri Sep 13 14:46:32 2024
+Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+Fri Sep 13 16:41:40 2024
+Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+Fri Sep 13 16:42:00 2024
+Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+Fri Sep 13 21:51:08 2024
+Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+Fri Sep 13 21:51:38 2024
+Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+Mon Sep 16 17:11:15 2024
+Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+Mon Sep 16 17:11:48 2024
+Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+Tue Sep 17 15:04:30 2024
+Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+Tue Sep 17 15:05:28 2024
+Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+Wed Sep 18 15:52:06 2024
+Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+Wed Sep 18 15:52:27 2024
+Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+Thu Sep 19 12:24:23 2024
+Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+Thu Sep 19 12:24:41 2024
+Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+Thu Sep 19 12:28:23 2024
+Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+Thu Sep 19 12:28:58 2024
+Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+Tue Sep 24 12:11:34 2024
+Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+Tue Sep 24 12:12:03 2024
+Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+Wed Oct 02 11:40:36 2024
+Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+Wed Oct 02 11:41:03 2024
+Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+Mon Oct 14 12:16:40 2024
+Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+Mon Oct 14 12:17:14 2024
+Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+Fri Nov 29 14:43:47 2024
+Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+Fri Nov 29 14:44:30 2024
+Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+Fri Nov 29 14:45:21 2024
+Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]

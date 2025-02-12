@@ -1,0 +1,885 @@
+<msg time='2024-08-26T20:27:02.392+05:30' org_id='oracle' comp_id='clients'
+ msg_id='dbgrmmdcrf_create_relation_full:1695:1503427940' type='NOTIFICATION' group='destroy'
+ level='16' host_id='POORNACHANDRA' host_addr='172.18.176.1'
+ version='1'>
+ <txt>Create Relation ADR_CONTROL
+ </txt>
+</msg>
+<msg time='2024-08-26T20:27:02.412+05:30' org_id='oracle' comp_id='clients'
+ msg_id='dbgrmmdcrf_create_relation_full:1695:1503427940' type='NOTIFICATION' group='destroy'
+ level='16' host_id='POORNACHANDRA' host_addr='172.18.176.1'>
+ <txt>Create Relation INC_METER_IMPT_DEF
+ </txt>
+</msg>
+<msg time='2024-08-26T20:27:02.435+05:30' org_id='oracle' comp_id='clients'
+ msg_id='dbgrmmdcrf_create_relation_full:1695:1503427940' type='NOTIFICATION' group='destroy'
+ level='16' host_id='POORNACHANDRA' host_addr='172.18.176.1'>
+ <txt>Create Relation INC_METER_PK_IMPTS
+ </txt>
+</msg>
+<msg time='2024-08-26T20:27:02.487+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='172.18.176.1'>
+ <txt>Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_6\log] [C:\app\poorn\product\11.1.0\db_6\log\diag]
+ </txt>
+</msg>
+<msg time='2024-08-26T20:28:04.469+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='172.18.176.1'>
+ <txt>Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_6\log] [C:\app\poorn\product\11.1.0\db_6\log\diag]
+ </txt>
+</msg>
+<msg time='2024-08-26T20:28:25.026+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='172.18.176.1'>
+ <txt>
+
+***********************************************************************
+ </txt>
+</msg>
+<msg time='2024-08-26T20:28:25.028+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='172.18.176.1'>
+ <txt>
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleorclDee)(ARGS=&apos;(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))&apos;))(CONNECT_DATA=(SID=orclDee)(CID=(PROGRAM=C:\app\poorn\product\11.1.0\db_6\BIN\sqlplus.exe)(HOST=POORNACHANDRA)(USER=poorn))))
+ </txt>
+</msg>
+<msg time='2024-08-26T20:28:25.029+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='172.18.176.1'>
+ <txt>
+  VERSION INFORMATION:
+TNS for 32-bit Windows: Version 11.1.0.6.0 - Production
+Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 11.1.0.6.0 - Production
+ </txt>
+</msg>
+<msg time='2024-08-26T20:28:25.030+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='172.18.176.1'>
+ <txt>  Time: 26-AUG-2024 20:28:25
+ </txt>
+</msg>
+<msg time='2024-08-26T20:28:25.031+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='172.18.176.1'>
+ <txt>  Tracing not turned on.
+ </txt>
+</msg>
+<msg time='2024-08-26T20:28:25.032+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='172.18.176.1'>
+ <txt>  Tns error struct:
+ </txt>
+</msg>
+<msg time='2024-08-26T20:28:25.033+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='172.18.176.1'>
+ <txt>    ns main err code: 12560
+ </txt>
+</msg>
+<msg time='2024-08-26T20:28:25.034+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='172.18.176.1'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2024-08-26T20:28:25.037+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='172.18.176.1'>
+ <txt>TNS-12560: TNS:protocol adapter error
+ </txt>
+</msg>
+<msg time='2024-08-26T20:28:25.038+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='172.18.176.1'>
+ <txt>    ns secondary err code: 0
+ </txt>
+</msg>
+<msg time='2024-08-26T20:28:25.039+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='172.18.176.1'>
+ <txt>    nt main err code: 530
+ </txt>
+</msg>
+<msg time='2024-08-26T20:28:25.040+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='172.18.176.1'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2024-08-26T20:28:25.042+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='172.18.176.1'>
+ <txt>TNS-00530: Protocol adapter error
+ </txt>
+</msg>
+<msg time='2024-08-26T20:28:25.043+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='172.18.176.1'>
+ <txt>    nt secondary err code: 2
+ </txt>
+</msg>
+<msg time='2024-08-26T20:28:25.044+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='172.18.176.1'>
+ <txt>    nt OS err code: 0
+ </txt>
+</msg>
+<msg time='2024-08-26T20:28:48.593+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='172.18.176.1'>
+ <txt>
+
+***********************************************************************
+ </txt>
+</msg>
+<msg time='2024-08-26T20:28:48.595+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='172.18.176.1'>
+ <txt>
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleorclDee)(ARGS=&apos;(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))&apos;))(CONNECT_DATA=(SID=orclDee)(CID=(PROGRAM=C:\app\poorn\product\11.1.0\db_6\BIN\sqlplus.exe)(HOST=POORNACHANDRA)(USER=poorn))))
+ </txt>
+</msg>
+<msg time='2024-08-26T20:28:48.597+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='172.18.176.1'>
+ <txt>
+  VERSION INFORMATION:
+TNS for 32-bit Windows: Version 11.1.0.6.0 - Production
+Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 11.1.0.6.0 - Production
+ </txt>
+</msg>
+<msg time='2024-08-26T20:28:48.598+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='172.18.176.1'>
+ <txt>  Time: 26-AUG-2024 20:28:48
+ </txt>
+</msg>
+<msg time='2024-08-26T20:28:48.599+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='172.18.176.1'>
+ <txt>  Tracing not turned on.
+ </txt>
+</msg>
+<msg time='2024-08-26T20:28:48.600+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='172.18.176.1'>
+ <txt>  Tns error struct:
+ </txt>
+</msg>
+<msg time='2024-08-26T20:28:48.601+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='172.18.176.1'>
+ <txt>    ns main err code: 12560
+ </txt>
+</msg>
+<msg time='2024-08-26T20:28:48.602+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='172.18.176.1'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2024-08-26T20:28:48.604+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='172.18.176.1'>
+ <txt>TNS-12560: TNS:protocol adapter error
+ </txt>
+</msg>
+<msg time='2024-08-26T20:28:48.605+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='172.18.176.1'>
+ <txt>    ns secondary err code: 0
+ </txt>
+</msg>
+<msg time='2024-08-26T20:28:48.606+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='172.18.176.1'>
+ <txt>    nt main err code: 530
+ </txt>
+</msg>
+<msg time='2024-08-26T20:28:48.608+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='172.18.176.1'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2024-08-26T20:28:48.609+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='172.18.176.1'>
+ <txt>TNS-00530: Protocol adapter error
+ </txt>
+</msg>
+<msg time='2024-08-26T20:28:48.610+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='172.18.176.1'>
+ <txt>    nt secondary err code: 2
+ </txt>
+</msg>
+<msg time='2024-08-26T20:28:48.611+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='172.18.176.1'>
+ <txt>    nt OS err code: 0
+ </txt>
+</msg>
+<msg time='2024-08-26T20:30:42.283+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='172.18.176.1'>
+ <txt>Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_6\log] [C:\app\poorn\product\11.1.0\db_6\log\diag]
+ </txt>
+</msg>
+<msg time='2024-08-26T21:29:49.579+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='172.18.176.1'>
+ <txt>Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_7\log] [C:\app\poorn\product\11.1.0\db_7\log\diag]
+ </txt>
+</msg>
+<msg time='2024-08-26T22:00:00.392+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='192.168.0.112'>
+ <txt>Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-08-26T22:14:31.383+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='192.168.0.112'>
+ <txt>Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-08-26T22:15:24.686+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='192.168.0.112'>
+ <txt>Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-08-26T22:15:53.605+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='192.168.0.112'>
+ <txt>Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-08-27T10:26:23.890+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='127.0.0.1'>
+ <txt>Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-08-27T10:27:44.991+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='127.0.0.1'>
+ <txt>Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-08-27T10:28:26.966+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='127.0.0.1'>
+ <txt>Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-08-27T10:29:14.838+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='127.0.0.1'>
+ <txt>Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-08-27T10:30:00.729+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='127.0.0.1'>
+ <txt>Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-08-27T12:53:56.222+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='127.0.0.1'>
+ <txt>Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-08-27T12:55:20.982+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='127.0.0.1'>
+ <txt>Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-08-27T18:11:10.474+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='192.168.0.112'>
+ <txt>Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-08-27T18:26:23.971+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='192.168.0.112'>
+ <txt>Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-08-27T18:27:24.055+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='192.168.0.112'>
+ <txt>Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-08-27T18:53:44.240+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='192.168.0.112'>
+ <txt>Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-08-27T18:54:15.986+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='192.168.0.112'>
+ <txt>Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-08-28T12:53:34.883+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='127.0.0.1'>
+ <txt>Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-08-28T12:54:24.937+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='127.0.0.1'>
+ <txt>Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-08-28T12:55:17.287+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='127.0.0.1'>
+ <txt>Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-08-29T12:58:00.273+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='127.0.0.1'>
+ <txt>Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-08-29T12:58:28.571+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='127.0.0.1'>
+ <txt>Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-08-29T13:00:23.690+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='127.0.0.1'>
+ <txt>Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-08-29T18:34:06.048+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='127.0.0.1'>
+ <txt>Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-08-29T18:34:33.554+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='192.168.0.112'>
+ <txt>Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-08-29T18:50:59.848+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='192.168.0.112'>
+ <txt>Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-08-29T18:51:25.148+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='192.168.0.112'>
+ <txt>Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-08-29T19:20:46.104+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='192.168.0.112'>
+ <txt>Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-08-29T19:21:12.490+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='192.168.0.112'>
+ <txt>Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-08-29T19:30:36.848+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='192.168.0.112'>
+ <txt>Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-08-29T19:31:04.247+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='192.168.0.112'>
+ <txt>Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-08-29T20:12:36.460+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='192.168.0.112'>
+ <txt>Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-08-29T20:12:51.009+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='192.168.0.112'>
+ <txt>Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-08-29T21:03:03.914+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='192.168.0.112'>
+ <txt>Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-08-29T21:03:20.030+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='192.168.0.112'>
+ <txt>Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-08-30T12:51:19.701+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='127.0.0.1'>
+ <txt>Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-08-30T12:51:34.365+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='127.0.0.1'>
+ <txt>Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-08-30T19:03:24.803+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='127.0.0.1'>
+ <txt>Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-08-30T19:04:03.246+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='192.168.0.112'>
+ <txt>Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-08-30T19:20:55.741+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='192.168.0.112'>
+ <txt>Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-09-02T19:19:19.574+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='192.168.0.112'>
+ <txt>Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-09-02T19:22:41.789+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='192.168.0.112'>
+ <txt>Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-09-02T19:23:41.687+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='192.168.0.112'>
+ <txt>Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-09-02T19:24:09.962+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='192.168.0.112'>
+ <txt>Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-09-02T19:24:42.106+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='192.168.0.112'>
+ <txt>Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-09-02T19:25:14.488+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='192.168.0.112'>
+ <txt>Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-09-02T19:25:44.050+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='192.168.0.112'>
+ <txt>Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-09-02T19:26:21.527+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='192.168.0.112'>
+ <txt>Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-09-02T19:27:03.160+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='192.168.0.112'>
+ <txt>Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-09-02T19:27:51.497+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='192.168.0.112'>
+ <txt>Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-09-02T19:27:51.765+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='192.168.0.112'>
+ <txt>Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-09-02T19:28:59.847+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='192.168.0.112'>
+ <txt>Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-09-02T19:29:28.782+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='192.168.0.112'>
+ <txt>Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-09-02T19:30:19.034+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='192.168.0.112'>
+ <txt>Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-09-02T19:32:53.568+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='192.168.0.112'>
+ <txt>Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-09-02T19:42:50.019+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='192.168.0.112'>
+ <txt>Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-09-02T19:53:02.780+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='192.168.0.112'>
+ <txt>Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-09-02T19:53:35.381+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='192.168.0.112'>
+ <txt>Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-09-02T19:54:17.359+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='192.168.0.112'>
+ <txt>Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-09-02T20:04:23.520+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='192.168.0.112'>
+ <txt>Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-09-02T20:04:38.277+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='192.168.0.112'>
+ <txt>Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-09-02T20:12:23.882+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='192.168.0.112'>
+ <txt>Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-09-03T08:50:11.102+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='127.0.0.1'>
+ <txt>Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-09-03T08:51:00.042+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='127.0.0.1'>
+ <txt>Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-09-03T08:53:06.231+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='127.0.0.1'>
+ <txt>Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-09-03T18:10:51.370+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='192.168.0.112'>
+ <txt>Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-09-03T18:11:17.885+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='192.168.0.112'>
+ <txt>Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-09-03T18:11:47.691+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='192.168.0.112'>
+ <txt>Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-09-03T18:12:26.577+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='192.168.0.112'>
+ <txt>Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-09-03T18:23:37.416+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='192.168.0.112'>
+ <txt>Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-09-03T18:24:10.874+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='192.168.0.112'>
+ <txt>Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-09-04T12:38:54.267+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='127.0.0.1'>
+ <txt>Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-09-04T14:12:20.934+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='127.0.0.1'>
+ <txt>Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-09-04T14:13:09.718+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='127.0.0.1'>
+ <txt>Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-09-04T16:15:30.089+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='127.0.0.1'>
+ <txt>Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-09-04T16:15:59.837+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='127.0.0.1'>
+ <txt>Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-09-04T22:22:12.828+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='192.168.0.112'>
+ <txt>Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-09-06T11:16:17.910+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='127.0.0.1'>
+ <txt>Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-09-06T11:16:33.492+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='127.0.0.1'>
+ <txt>Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-09-12T13:08:55.432+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='127.0.0.1'>
+ <txt>Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-09-12T13:09:08.697+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='127.0.0.1'>
+ <txt>Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-09-12T13:09:47.521+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='127.0.0.1'>
+ <txt>Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-09-12T13:33:06.290+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='127.0.0.1'>
+ <txt>Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-09-12T13:33:33.122+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='127.0.0.1'>
+ <txt>Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-09-13T14:45:42.659+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='127.0.0.1'>
+ <txt>Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-09-13T14:46:32.481+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='127.0.0.1'>
+ <txt>Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-09-13T16:41:40.964+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='127.0.0.1'>
+ <txt>Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-09-13T16:42:00.928+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='127.0.0.1'>
+ <txt>Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-09-13T21:51:08.529+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='192.168.0.120'>
+ <txt>Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-09-13T21:51:38.436+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='192.168.0.120'>
+ <txt>Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-09-16T17:11:15.411+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='127.0.0.1'>
+ <txt>Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-09-16T17:11:48.143+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='127.0.0.1'>
+ <txt>Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-09-17T15:04:30.726+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='169.254.31.125'>
+ <txt>Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-09-17T15:05:28.814+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='169.254.31.125'>
+ <txt>Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-09-18T15:52:06.078+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='127.0.0.1'>
+ <txt>Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-09-18T15:52:27.684+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='127.0.0.1'>
+ <txt>Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-09-19T12:24:23.755+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='172.17.224.1'>
+ <txt>Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-09-19T12:24:41.594+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='172.17.224.1'>
+ <txt>Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-09-19T12:28:23.440+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='172.17.224.1'>
+ <txt>Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-09-19T12:28:58.565+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='172.17.224.1'>
+ <txt>Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-09-24T12:11:34.647+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='172.17.224.1'>
+ <txt>Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-09-24T12:12:03.085+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='172.17.224.1'>
+ <txt>Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-10-02T11:40:36.943+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='172.17.224.1'>
+ <txt>Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-10-02T11:41:03.420+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='172.17.224.1'>
+ <txt>Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-10-14T12:16:40.863+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='172.17.224.1'>
+ <txt>Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-10-14T12:17:14.861+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='172.17.224.1'>
+ <txt>Directory does not exist for read/write [C:\app\poorna\product\11.1.0\db_1\log] [C:\app\poorna\product\11.1.0\db_1\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-11-29T14:43:47.399+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='127.0.0.1'>
+ <txt>Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-11-29T14:44:30.920+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='127.0.0.1'>
+ <txt>Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2024-11-29T14:45:21.303+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='POORNACHANDRA'
+ host_addr='127.0.0.1'>
+ <txt>Directory does not exist for read/write [C:\app\poorn\product\11.1.0\db_11\log] [C:\app\poorn\product\11.1.0\db_11\log\diag\clients]
+ </txt>
+</msg>
